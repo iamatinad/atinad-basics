@@ -1,0 +1,11 @@
+.wrapper{
+   width: 450px; 
+   margin-inline:auto;
+   
+   /* border: 2px solid rebeccapurple;  */
+}
+
+.primary-header_content > *{
+    width: auto;
+    
+}
